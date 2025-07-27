@@ -106,11 +106,11 @@ The cleaned dataset was visualized in Power BI to explore and communicate trends
   - Slicers for weekday, month, hour  
 
 ![Data Import](./power%20bi%20data%20import.png)  
-![Fare vs Month](./fare%20vs%20month.png)  
-![Fare vs Weekday](./fare%20vs%20Weekday.png)  
-![Fare vs Hour](./fare%20vs%20hour.png)  
-![Line Chart](./fare%20vs%hour%20line%20chart.png)
-![BINS](./sum%20(month)%20vs%20fare%20bins.png)
+![Fare vs Month](./fare%20vs%20month.PNG)  
+![Fare vs Weekday](./fare%20vs%20Weekday.PNG)  
+![Fare vs Hour](./fare%20vs%20hour.PNG)  
+![Line Chart](./fare%20vs%hour%20line%20chart.PNG)
+![BINS](./sum%20(month)%20vs%20fare%20bins.PNG)
 
 ### Dashboard Design Principles
 
